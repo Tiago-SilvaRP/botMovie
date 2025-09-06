@@ -1,0 +1,9 @@
+:root {
+    --color-neutral-dark-black: #000000;
+    --color-neutral-light-white: #ffffff;
+    --color-neutral-gray-light: #d0d0d0;
+    --color-neutral-red: #e50914;
+
+    /* HOVERS - FOCUS */
+    --color-hover-red: #f20612;
+}
