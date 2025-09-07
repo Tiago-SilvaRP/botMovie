@@ -1,0 +1,31 @@
+.brand-header {
+    margin: 20px 0;
+}
+
+.brand-header .container-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+    gap: 16px;
+}
+
+.robot-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    animation: float 3s ease-in-out infinite;
+}
+
+.container-logo .brand-title {
+    color: var(--colorr-neutral-red);
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.brand-subtitle {
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: center;
+}
